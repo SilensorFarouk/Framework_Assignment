@@ -11,7 +11,7 @@ This repo analyzes the CORD-19 dataset's `metadata.csv` for COVID-19 research pa
 
 1. **Clone Repo:**
    ```
-   git clone https://github.com/[yourusername]/Frameworks_Assignment.git
+   git clone https://github.com/SilensorFarouk/Frameworks_Assignment.git
    cd Frameworks_Assignment
    ```
 
@@ -51,7 +51,7 @@ Frameworks_Assignment/
 ├── streamlit_app.py          # Interactive app
 ├── cleaned_metadata.csv      # Generated cleaned data
 ├── *.png                     # Generated plots (year, journals, wordcloud, sources)
-└── report.md                 # Findings reflection
+└── report.md              # Findings reflection
 ```
 
 ## Key Findings
@@ -70,11 +70,12 @@ Frameworks_Assignment/
 
 ## Submission
 
-For Frameworks_Assignment: https://github.com/[yourusername]/Frameworks_Assignment.
+For Frameworks_Assignment: https://github.com/SilensorFarouk/Frameworks_Assignment.
 
-Contact: [your-email@example.com]. MIT License.
+Contact: silensorfarouk@gmail.com. 
+
 
 ---
 
-*Updated: September 2025*
+*Updated: 25th September 2025*
 ```
